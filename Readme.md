@@ -2,6 +2,8 @@
 
 This Site Is Live At:- https://celadon-lolly-7c7f1d.netlify.app/
 
+Check out The Live Demo At: https://www.youtube.com/watch?v=bDGb4ktQtiQ&ab_channel=Awadesh
+
 
 Welcome to the Digital Clock application! This project showcases a simple but functional digital clock that displays the current time in a 12-hour format. It was developed using HTML, CSS, and JavaScript.
 
